@@ -23,7 +23,7 @@ My goal is to support data-driven decision-making in a professional environment.
 🎓 Diploma in ICT: Application Development  
 
 **Boetse Secondary School**  
-📅 2016 – 2021  
+📅 2017 – 2021  
 🎓 National Senior Certificate (NSC)  
 
 ---
