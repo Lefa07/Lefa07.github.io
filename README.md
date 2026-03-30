@@ -79,4 +79,4 @@ CPUT Lecturer
 ## 🎥 Interview Demo
 
 ▶️ **Watch my interview video:**  
-https://drive.google.com/file/d/1fhRRlwj39Pb9nNNTh620S1z81AMfCjM2/view?usp=sharing
+[Play Video](https://drive.google.com/file/d/1fhRRlwj39Pb9nNNTh620S1z81AMfCjM2/view?usp=sharing)
