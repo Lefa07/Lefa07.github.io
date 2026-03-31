@@ -1,4 +1,4 @@
-# Lefa07.github.io
+# My CV
 
 # 💼 Mojalefa Mabotja
 
