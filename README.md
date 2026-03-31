@@ -75,8 +75,8 @@ CPUT Lecturer
 📧 afolayana@cput.ac.za  
 
 ---
+<h2>🎥 Interview Demo</h2>
 
-## 🎥 Interview Demo
-
-▶️ **Watch my interview video:**  
-[Play Video](https://drive.google.com/file/d/1fhRRlwj39Pb9nNNTh620S1z81AMfCjM2/view?usp=sharing)
+<video width="700" controls>
+  <source src="assets/Lefa-interview.mp4" type="video/mp4">
+</video>
