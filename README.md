@@ -78,5 +78,5 @@ CPUT Lecturer
 <h2>🎥 Interview Demo</h2>
 
 <video width="700" controls>
-  <source src="assets/Lefa-interview.mp4" type="video/mp4">
+  <source src="assets/Lefa-Interview.mp4" type="video/mp4">
 </video>
