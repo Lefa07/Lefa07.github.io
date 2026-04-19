@@ -9,7 +9,7 @@
 
 ---
 
-🌐 **Live Portfolio:** https://github.com/Lefa07/MojalefaMabotja-Portfolio
+🌐 **Live Portfolio:** https://lefa07.github.io/MojalefaMabotja-Portfolio
 
 ---
 
