@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mojalefa Mabotja</h1>
-<h3 align="center">ICT Student | Aspiring Data Analyst |Asptiring Software Developer| CPUT</h3>
+<h3 align="center">ICT Student | Aspiring Data Analyst | Aspiring Software Developer | CPUT</h3>
 
 <p align="center">
   <a href="https://github.com/Lefa07">GitHub</a> •
@@ -9,7 +9,7 @@
 
 ---
 
-🌐 **Live Portfolio:** https://lefa07.github.io/
+🌐 **Live Portfolio:** https://github.com/Lefa07/MojalefaMabotja-Portfolio
 
 ---
 
