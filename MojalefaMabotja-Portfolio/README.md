@@ -1,13 +1,9 @@
-<div align="center">
-
 # 👋 Hi, I'm Mojalefa Mabotja
 
 ### `ICT Student` • `Aspiring Data Analyst` • `Aspiring Software Developer`
 #### 🎓 Cape Peninsula University of Technology
 
-<br>
-
-<div align="center">
+---
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lefa07-181717?style=for-the-badge&logo=github)](https://github.com/Lefa07)
 
@@ -15,22 +11,13 @@
 
 [![Email](https://img.shields.io/badge/Email-223227498@mycput.ac.za-D14836?style=for-the-badge&logo=gmail)](mailto:223227498@mycput.ac.za)
 
-</div>
-<br>
-
 🌐 **Live Portfolio →** [lefa07.github.io/MojalefaMabotja-Portfolio](https://lefa07.github.io/MojalefaMabotja-Portfolio)
 
-</div>
-
 ---
-
-<div align="center">
 
 ## ✦ Table of Contents ✦
 
 [About Me](#-about-me) • [CV](#-cv) • [Mock Interview](#-mock-interview) • [Reflections](#-reflections) • [Contact](#-contact)
-
-</div>
 
 ---
 
@@ -50,8 +37,6 @@ I am passionate about:
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -59,31 +44,21 @@ I am passionate about:
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</div>
-
 ---
 
 ## 📄 CV
-
-<div align="center">
 
 📋 **Want to know more about my background?**
 
 [**View My Full CV →**](cv/cv.md)
 
-</div>
-
 ---
 
 ## 🎤 Mock Interview
 
-<div align="center">
-
 🎬 **Watch me in action — mock interview recording**
 
 [**Watch My Mock Interview →**](interview/mock-interview.md)
-
-</div>
 
 ---
 
@@ -98,15 +73,14 @@ I am passionate about:
 ---
 
 ## 📬 Contact
-- 📞 +27614506138
-- 📧 223227498@mycput.ac.za
-- 🔗 [GitHub](https://github.com/Lefa07)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mojalefa-mabotja-116b07351/)
 
-<br>
+| Platform | Details |
+|---|---|
+| 📞 Phone | +27 61 450 6138 |
+| 📧 Email | 223227498@mycput.ac.za |
+| 🐙 GitHub | [github.com/Lefa07](https://github.com/Lefa07) |
+| 💼 LinkedIn | [Mojalefa Mabotja](https://www.linkedin.com/in/mojalefa-mabotja-116b07351/) |
 
 ---
 
-<sub>✦ Designed with 💙 by Mojalefa Mabotja • CPUT ICT Student • 2026 ✦</sub>
-
-</div>
+✦ Designed with 💙 by Mojalefa Mabotja • CPUT ICT Student • 2026 ✦
