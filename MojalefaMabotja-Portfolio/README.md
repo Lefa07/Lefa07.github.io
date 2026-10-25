@@ -98,7 +98,7 @@ Each reflection describes my experience, contributions, challenges, outcomes, an
 | #  | Reflection Topic                     | Link                                                                        |
 | -- | ------------------------------------ | --------------------------------------------------------------------------- |
 | 01 | 👥 Agile Team Charter Reflection     | [View →](October-Assignment/agile-team-charter/reflection.md)     |
-| 02 | 📝 User Stories and Tasks Reflection | [View →](October-Assignment/user-stories-and-tasks/reflection.md) |
+| 02 | 📝 User Stories and Tasks Reflection | [View →](October-Assignment/user-stories-and-tasks/reflections.md) |
 | 03 | 📦 Product Backlog Reflection        | [View →](October-Assignment/product-backlog/reflection.md)        |
 | 04 | 🔄 Sprint Backlog Reflection         | [View →](October-Assignment/sprint-backlog/reflection.md)         |
 | 05 | 📅 Agile Logbook Reflection          | [View →](October-Assignment/agile-logbook/reflection.md)          |
