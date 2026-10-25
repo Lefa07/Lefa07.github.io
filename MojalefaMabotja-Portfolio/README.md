@@ -85,11 +85,11 @@ The assessment demonstrates my understanding of Agile practices, requirements an
 
 | #  | Assessment Component      | Description                                                                  | Link                                                                   |
 | -- | ------------------------- | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------- |
-| 01 | 👥 Agile Team Charter     | Defines the team structure, roles, responsibilities, and working agreements. | [View →](assessment-2-october-2026/01-agile-team-charter/index.md)     |
-| 02 | 📝 User Stories and Tasks | Describes user requirements through user stories and development tasks.      | [View →](assessment-2-october-2026/02-user-stories-and-tasks/index.md) |
-| 03 | 📦 Product Backlog        | Organises product requirements and proposed features.                        | [View →](assessment-2-october-2026/03-product-backlog/index.md)        |
-| 04 | 🔄 Sprint Backlog         | Documents the work organised for sprint development.                         | [View →](assessment-2-october-2026/04-sprint-backlog/index.md)         |
-| 05 | 📅 Agile Logbook          | Records daily standup updates, project activities, progress, and challenges. | [View →](assessment-2-october-2026/05-agile-logbook/index.md)          |
+| 01 | 👥 Agile Team Charter     | Defines the team structure, roles, responsibilities, and working agreements. | [View →](October-Assignment/agile-team-charter/index.md)     |
+| 02 | 📝 User Stories and Tasks | Describes user requirements through user stories and development tasks.      | [View →](October-Assignment/user-stories-and-tasks/index.md) |
+| 03 | 📦 Product Backlog        | Organises product requirements and proposed features.                        | [View →](October-Assignment/product-backlog/index.md)        |
+| 04 | 🔄 Sprint Backlog         | Documents the work organised for sprint development.                         | [View →](October-Assignment/sprint-backlog/index.md)         |
+| 05 | 📅 Agile Logbook          | Records daily standup updates, project activities, progress, and challenges. | [View →](October-Assignment/agile-logbook/index.md)          |
 
 ### 💭 Assessment Reflections
 
@@ -97,11 +97,11 @@ Each reflection describes my experience, contributions, challenges, outcomes, an
 
 | #  | Reflection Topic                     | Link                                                                        |
 | -- | ------------------------------------ | --------------------------------------------------------------------------- |
-| 01 | 👥 Agile Team Charter Reflection     | [View →](assessment-2-october-2026/01-agile-team-charter/reflection.md)     |
-| 02 | 📝 User Stories and Tasks Reflection | [View →](assessment-2-october-2026/02-user-stories-and-tasks/reflection.md) |
-| 03 | 📦 Product Backlog Reflection        | [View →](assessment-2-october-2026/03-product-backlog/reflection.md)        |
-| 04 | 🔄 Sprint Backlog Reflection         | [View →](assessment-2-october-2026/04-sprint-backlog/reflection.md)         |
-| 05 | 📅 Agile Logbook Reflection          | [View →](assessment-2-october-2026/05-agile-logbook/reflection.md)          |
+| 01 | 👥 Agile Team Charter Reflection     | [View →](October-Assignment/agile-team-charter/reflection.md)     |
+| 02 | 📝 User Stories and Tasks Reflection | [View →](October-Assignment/user-stories-and-tasks/reflection.md) |
+| 03 | 📦 Product Backlog Reflection        | [View →](October-Assignment/product-backlog/reflection.md)        |
+| 04 | 🔄 Sprint Backlog Reflection         | [View →](October-Assignment/sprint-backlog/reflection.md)         |
+| 05 | 📅 Agile Logbook Reflection          | [View →](October-Assignment/agile-logbook/reflection.md)          |
 
 ---
 
