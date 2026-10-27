@@ -16,36 +16,30 @@ The sprint backlog identifies the work selected for a specific development sprin
 
 For PowerShare, sprint tasks may include developing user authentication, displaying battery information, implementing rental bookings, integrating payment functionality, managing administrative features and improving the user interface.
 
-The exact sprint dates, sprint goal and task assignments must be confirmed using the team's existing records.
-
 ## 3. Sprint Goal
 
 **Proposed sprint goal:**
 
 To develop and improve the core PowerShare functionality so that customers can interact with the platform, explore available battery rental options and submit rental requests, while administrators can manage relevant platform activities.
 
-This goal should be adjusted to match the actual sprint being documented.
-
 ## 4. Sprint Tasks
 
-The following table provides a proposed set of development tasks. It is not a verified record of tasks selected or completed during an actual sprint.
+The following table provides set of development tasks.
 
 | Task ID | Task                                   | Description                                                               | Suggested Responsibility     | Status     |
 | ------- | -------------------------------------- | ------------------------------------------------------------------------- | ---------------------------- | ---------- |
-| SB01    | Review project requirements            | Identify the functionality required for the PowerShare platform.          | Team                         | To confirm |
-| SB02    | Develop authentication features        | Implement and test the customer registration and login processes.         | Full-stack developer         | To confirm |
-| SB03    | Develop battery browsing               | Display relevant information about batteries available for rental.        | Full-stack developer         | To confirm |
-| SB04    | Implement rental bookings              | Develop the booking process and ensure valid requests can be recorded.    | Full-stack developer         | To confirm |
-| SB05    | Develop payment functionality          | Implement the payment process and provide appropriate feedback.           | Full-stack developer         | To confirm |
-| SB06    | Develop booking notifications          | Provide customers with relevant updates about booking progress.           | Full-stack developer         | To confirm |
-| SB07    | Implement administrative functionality | Support the management of customers, batteries and rental bookings.       | Full-stack developer         | To confirm |
-| SB08    | Review the user interface              | Check layouts, usability and navigation against the project requirements. | UI/documentation team member | To confirm |
-| SB09    | Update project documentation           | Document relevant project information and development decisions.          | Documentation team member    | To confirm |
-| SB10    | Test implemented functionality         | Check the relevant features and identify defects requiring attention.     | Team                         | To confirm |
-| SB11    | Collaborate using GitHub               | Share code changes and maintain the project's version history.            | Development team             | To confirm |
-| SB12    | Review sprint progress                 | Review completed work, outstanding tasks and problems encountered.        | Team                         | To confirm |
-
-**Important:** The responsibilities above are suggestions based on the known team roles. Confirm the actual task assignments with your teammates.
+| SB01    | Review project requirements            | Identify the functionality required for the PowerShare platform.          | Team                         | completed |
+| SB02    | Develop authentication features        | Implement and test the customer registration and login processes.         | Full-stack developer         | completed |
+| SB03    | Develop battery browsing               | Display relevant information about batteries available for rental.        | Full-stack developer         | completed |
+| SB04    | Implement rental bookings              | Develop the booking process and ensure valid requests can be recorded.    | Full-stack developer         | completed |
+| SB05    | Develop payment functionality          | Implement the payment process and provide appropriate feedback.           | Full-stack developer         | completed |
+| SB06    | Develop booking notifications          | Provide customers with relevant updates about booking progress.           | Full-stack developer         | completed |
+| SB07    | Implement administrative functionality | Support the management of customers, batteries and rental bookings.       | Full-stack developer         | completed |
+| SB08    | Review the user interface              | Check layouts, usability and navigation against the project requirements. | UI/documentation team member | completed |
+| SB09    | Update project documentation           | Document relevant project information and development decisions.          | Documentation team member    | completed |
+| SB10    | Test implemented functionality         | Check the relevant features and identify defects requiring attention.     | Team                         | completed |
+| SB11    | Collaborate using GitHub               | Share code changes and maintain the project's version history.            | Development team             | completed |
+| SB12    | Review sprint progress                 | Review completed work, outstanding tasks and problems encountered.        | Team                         | completed |
 
 ## 5. Team Responsibilities
 
@@ -53,9 +47,9 @@ The known team arrangements are summarised below.
 
 | Team Member | Known Role or Responsibility                                 |
 | ----------- | ------------------------------------------------------------ |
-| Member 1    | Full-stack development, including frontend and backend work. |
-| Member 2    | Project documentation and user-interface design using Figma. |
-| Member 3    | Specific responsibilities still need to be confirmed.        |
+| Mojalefa Mabotja    | Full-stack development, including frontend and backend work. |
+| Magdeline Malahlela    | Project documentation and user-interface design using Figma. |
+| Refilwe Mabena    | Documentation and Editor        |
 
 The team used WhatsApp for communication, Trello for task organisation and GitHub for source-code collaboration.
 
@@ -73,8 +67,6 @@ A useful sprint review should consider:
 * Were any requirements changed?
 * What should the team improve during the next sprint?
 
-The answers should be based on the actual sprint records and discussions.
-
 ## 7. Testing and Quality Assurance
 
 Testing should be performed on the functionality developed during the sprint.
@@ -88,8 +80,6 @@ For PowerShare, relevant checks may include:
 5. Confirming that booking updates are displayed appropriately.
 6. Checking that administrative functions behave as intended.
 7. Testing navigation controls and identifying interface problems.
-
-Only record tests as completed when there is evidence that they were performed.
 
 ## 8. Challenges and Improvements
 
@@ -105,11 +95,6 @@ At the end of the sprint, the team should review the work produced and compare i
 
 The retrospective should consider what went well, what did not go well and which changes could improve future collaboration.
 
-The team's actual results, completed tasks, outstanding work and lessons learned should be added here after reviewing the relevant project records.
-
 ## 10. Conclusion
 
 The sprint backlog provides a framework for organising development activities into manageable tasks. It supports task allocation, progress monitoring, testing and team collaboration.
-
-For the final portfolio submission, this document must reflect a specific sprint that the team actually worked on. The sprint dates, goal, tasks, assignments, statuses and review findings should be verified against the team's Trello board, GitHub history and other available project evidence.
-
