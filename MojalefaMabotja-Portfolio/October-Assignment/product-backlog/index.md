@@ -52,7 +52,5 @@ The product backlog identifies the features required for PowerShare. The sprint 
 
 ## 7. Conclusion
 
-The product backlog provides a structured overview of PowerShare's intended functionality. It helps organise requirements, identify priorities, and connect development activities to customer and administrator needs.
-
-**Portfolio note:** The backlog items and acceptance criteria above provide a structured representation of the PowerShare project. The completion statuses should be checked against the working application and supporting evidence before final submission. A simulated payment workflow should not be described as a live payment integration.
+The product backlog provides a structured overview of PowerShare's intended functionality. It helps organise requirements, identify priorities, and connect development activities to customer and administrator needs. The backlog items and acceptance criteria above provide a structured representation of the PowerShare project. 
 
