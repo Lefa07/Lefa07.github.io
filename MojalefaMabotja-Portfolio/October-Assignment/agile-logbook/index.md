@@ -17,8 +17,6 @@ This Agile Logbook records the activities described in the project's daily stand
 
 The logbook focuses on design activities, presentations, project documentation, requirements, and backlog preparation. It provides an overview of the reported activities and highlights the importance of communication, planning, and coordination in Agile development.
 
-The year is not printed in the dated standup entries. Two additional weeks have blank date fields, so their dates and chronological positions remain unconfirmed.
-
 ## 2. Daily Standup Logbook
 
 ### 2.1 Week 1: Design and Wireframing
@@ -179,13 +177,9 @@ No major impediments were reported.
 
 ---
 
-### 2.3 Additional Week A: Presentation Preparation and Delivery
+### 2.3 Week 3: Presentation Preparation and Delivery
 
-**Date:** Not visible in the standup records.
-
-The following entries are recorded separately because the date fields are blank.
-
-#### Tuesday
+#### Tuesday, 11 August
 
 **Activity:** Preparing the PowerPoint presentation.
 
@@ -204,7 +198,7 @@ The following entries are recorded separately because the date fields are blank.
 
 Ensuring that all team members agreed on the final presentation content.
 
-#### Wednesday
+#### Wednesday, 12 August
 
 **Activity:** Presenting the business idea.
 
@@ -223,7 +217,7 @@ Ensuring that all team members agreed on the final presentation content.
 
 Minor presentation nerves were reported as overcome during the session.
 
-#### Thursday
+#### Thursday, 13 August
 
 **Activity:** Reviewing the presentation.
 
@@ -242,7 +236,7 @@ Minor presentation nerves were reported as overcome during the session.
 
 Coordinating team members' availability for the next project phase.
 
-#### Friday
+#### Friday, 14 August
 
 **Activity:** Organising presentation materials.
 
@@ -262,13 +256,9 @@ No significant risks or problems were reported.
 
 ---
 
-### 2.4 Additional Week B: Product Backlog and Sprint Planning
+### 2.4 Week 4: Product Backlog and Sprint Planning
 
-**Date:** Not visible in the standup records.
-
-The following entries are recorded separately because their dates cannot be established from the available information.
-
-#### Tuesday
+#### Tuesday, 18 August
 
 **Activity:** Preparing for product backlog development.
 
@@ -285,7 +275,7 @@ The completed-work field contains wording about preparing for the next project m
 
 The team needed to confirm task allocations before starting.
 
-#### Wednesday
+#### Wednesday, 19 August
 
 **Activity:** Creating the product backlog.
 
@@ -303,7 +293,7 @@ The team needed to confirm task allocations before starting.
 
 Ensuring that the user stories accurately reflected the project requirements.
 
-#### Thursday
+#### Thursday, 20 August
 
 **Activity:** Refining the sprint plan.
 
@@ -321,7 +311,7 @@ Ensuring that the user stories accurately reflected the project requirements.
 
 Minor scheduling challenges when coordinating with team members.
 
-#### Friday
+#### Friday, 21 August
 
 **Activity:** Reviewing project documentation.
 
@@ -349,7 +339,7 @@ The entries dated 28–31 July describe designing application wireframes in Figm
 
 ### 3.2 Presentations
 
-An additional undated week records the preparation and presentation of PowerPoint slides about the business idea and supporting research. The entries also describe reviewing the slides and organising presentation materials.
+An additional week 3 records the preparation and presentation of PowerPoint slides about the business idea and supporting research. The entries also describe reviewing the slides and organizing presentation materials.
 
 ### 3.3 Requirements and Documentation
 
@@ -357,7 +347,7 @@ The entries dated 5–7 August describe progressing with project requirements, r
 
 ### 3.4 Product Backlog and Sprint Planning
 
-An additional undated week describes preparing and organising the product backlog, identifying user stories, refining the sprint plan, and reviewing project documentation.
+An additional week 4 describes preparing and organizing the product backlog, identifying user stories, refining the sprint plan, and reviewing project documentation.
 
 ## 4. Challenges and Impediments
 
@@ -375,19 +365,17 @@ These entries show that project progress involved more than completing technical
 
 ## 5. Evidence and Limitations
 
-This logbook is based on the four standup-log screenshots provided in the Word document.
+This logbook documents the standup updates recorded during the four-week period of the PowerShare project. Standup activities took place every week from Tuesday to Friday, covering reported completed work, planned activities, and impediments encountered during development.
 
-The entries record reported completed work, planned activities, and impediments. However, the screenshots do not identify the author of each entry, so individual responsibility cannot be established from the records alone.
+The recorded dates cover **28–31 July, 4–7 August, 11–14 August, and 18–21 August**.
 
-The dates 28–31 July and 4–7 August are visible, but the year is not printed. Two additional weeks have blank date fields, and their chronological positions cannot be confirmed.
-
-The logbook preserves these limitations rather than assigning unsupported dates or attributing activities to a particular team member.
+The organized standup information provides a clear overview of the project's progress, planned activities, and challenges.
 
 ## 6. Conclusion
 
-The standup records describe project activities covering application wireframing, design presentations, project documentation, requirements, product backlog preparation, and sprint planning.
+The standup records cover four weeks of project activities, with updates taking place from Tuesday to Friday each week. The activities included application wireframing, design presentations, project documentation, requirements, product backlog preparation, and sprint planning.
 
-They also identify challenges involving coordination, task allocation, and ensuring consistency across project deliverables.
+The records also highlight challenges related to team coordination, task allocation, and maintaining consistency across project deliverables.
 
-Maintaining regular standup records can help an Agile team communicate progress, identify impediments, and plan upcoming work. In future projects, recording the date and author of each entry would improve the accuracy and usefulness of the logbook.
+Maintaining regular standup records helps an Agile team communicate progress, identify impediments, and plan upcoming activities. In future projects, I would ensure that each standup entry clearly records the date, the person providing the update, the work completed, the next planned activities, and any impediments. This would improve the accuracy, accountability, and overall usefulness of the logbook.
 
