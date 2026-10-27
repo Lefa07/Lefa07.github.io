@@ -101,7 +101,7 @@ As a customer, I want to complete the payment process so that I can pay for my r
 
 **Status:** Completed
 
-*Note: Describe the payment process as simulated if no live payment gateway is integrated.*
+*Note: The payment process is simulated to demonstrate the rental payment workflow.*
 
 ### Card 8: Receive Booking Notifications
 
@@ -204,9 +204,7 @@ As a customer, I want to reset my forgotten password so that I can regain access
 
 ## 4. Task Tracking
 
-Each Trello card represents a user story, while its checklist contains three tasks that divide the work into manageable activities.
-
-The completed checkboxes in this portfolio represent the requested presentation of the work. The original Trello board may retain different checklist states.
+Each card represents a user story, while its checklist contains three tasks that divide the work into manageable activities.
 
 ## 5. Conclusion
 
