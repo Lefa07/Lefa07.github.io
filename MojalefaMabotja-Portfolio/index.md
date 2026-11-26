@@ -28,13 +28,15 @@ I am a **Diploma in ICT** student at the **Cape Peninsula University of Technolo
 
 ---
 
-## 🐙 GitHub Student Account
+## 🎓 GitHub Student Account Evidence
 
 **GitHub username:** `Lefa07`
 
-My GitHub account is used to manage repositories, practise version control, collaborate on software projects, and maintain my digital portfolio.
+My GitHub Student status was successfully verified on 31 March 2026 under the Student application type. My benefits are available until 31 March 2028.
 
-*Evidence note: The supplied portfolio files identify my GitHub username but do not include a separate GitHub Student account verification screenshot.*
+### Verification Evidence
+
+![GitHub Student Verification](images/github-student-verification.jpeg)
 
 ---
 
@@ -1769,6 +1771,23 @@ Another improvement would be to review previous standup entries regularly so tha
 
 Overall, this activity improved my understanding of communication, accountability, and continuous improvement in Agile development. I would apply these lessons in future projects by maintaining consistent standup records and using them to support better planning and collaboration.
 
+
+---
+
+## 🌐 GitHub Pages Publication Evidence
+
+My portfolio was successfully published using GitHub Pages.
+
+**Published Portfolio:**  
+https://lefa07.github.io/MojalefaMabotja-Portfolio/
+
+### GitHub Pages Configuration
+
+![GitHub Pages Settings](images/github-pages-settings.jpeg)
+
+### Live Published Portfolio
+
+![Published Portfolio](images/github-pages-live.jpeg)
 
 ---
 
